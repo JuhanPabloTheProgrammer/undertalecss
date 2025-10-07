@@ -1,4 +1,3 @@
-<style>
     @font-face {
       font-family: 'ProphecyType';
       src: url('./assets/fonts/PROPHECYTYPE.ttf') format('truetype');
@@ -620,4 +619,3 @@
     .sliderWrapper > #gifYOffsetValue {
       margin-top: auto;
     }
-  </style>
